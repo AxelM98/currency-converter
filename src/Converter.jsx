@@ -13,7 +13,7 @@ function Converter() {
     const requestOptions = {
       method: "GET",
       headers: {
-        apikey: process.env.API_KEY,
+        apikey: "zCOMJfx8v7rQ8niOco4lajR2TCCivyrW",
       },
     };
     fetch(apiEndpoint, requestOptions)
